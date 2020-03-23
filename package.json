@@ -1,7 +1,7 @@
 {
   "name": "covid-risk-eval",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "risk-eval.js",
   "author": "Supanut Apikulvanich <supanut.overload@gmail.com>",
   "license": "MIT",
   "scripts": {
